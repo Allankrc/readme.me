@@ -14,7 +14,7 @@ export default {
   profession: 'desempregado',
   email: ['allankrc@gmail.com'],
   linkedin: ['https://www.linkedin.com/in/allan-k-r-correia-80963538/'],
-  curriculum:, '',
+  curriculum:, 'https://allankrc.github.io/MyProfile/',
     contato: '(84) 98627-1371',
   description: {
     myProfile: `Olá! .`,
