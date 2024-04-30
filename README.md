@@ -13,12 +13,12 @@ export default {
   from: 'Natal, RN, Brasil',
   profession: 'desempregado',
   email: ['allankrc@gmail.com'],
-  linkedin: 'https://www.linkedin.com/in/andrehorman',
+  linkedin: ['https://www.linkedin.com/in/allan-k-r-correia-80963538/'],
   curriculum:, '',
     contato: '(84) 98627-1371',
   description: {
     myProfile: `Olá! .`,
-    myObjective: `RPA, ANALISE DE DADOS, VISÃO COMPUTACIONAL ,BACKEND`,
+    myObjective: 'RPA', 'ANALISE DE DADOS', 'VISÃO COMPUTACIONAL' ,'BACKEND'`
   },
   skills: {
     languages: [
